@@ -1,0 +1,22 @@
+emp_id,employee_name,starting_shift,gender,contact_number,email,address
+E001,Aarav Sharma,1,Male,9000010001,aarav.sharma@example.com,Delhi
+E002,Vihaan Patel,1,Male,9000010002,vihaan.patel@example.com,Delhi
+E003,Arjun Mehta,1,Male,9000010003,arjun.mehta@example.com,Delhi
+E004,Sai Reddy,1,Male,9000010004,sai.reddy@example.com,Delhi
+E005,Rahul Verma,1,Male,9000010005,rahul.verma@example.com,Delhi
+E006,Karthik Iyer,1,Male,9000010006,karthik.iyer@example.com,Delhi
+E007,Ankit Singh,1,Male,9000010007,ankit.singh@example.com,Delhi
+E008,Rohit Agarwal,2,Male,9000010008,rohit.agarwal@example.com,Delhi
+E009,Neha Gupta,2,Female,9000010009,neha.gupta@example.com,Delhi
+E010,Priya Nair,2,Female,9000010010,priya.nair@example.com,Delhi
+E011,Sneha Kulkarni,2,Female,9000010011,sneha.kulkarni@example.com,Delhi
+E012,Kavya Rao,2,Female,9000010012,kavya.rao@example.com,Delhi
+E013,Pooja Mishra,2,Female,9000010013,pooja.mishra@example.com,Delhi
+E014,Ananya Bose,2,Female,9000010014,ananya.bose@example.com,Delhi
+E015,Meera Joshi,3,Female,9000010015,meera.joshi@example.com,Delhi
+E016,Suresh Kumar,3,Male,9000010016,suresh.kumar@example.com,Delhi
+E017,Manish Chawla,3,Male,9000010017,manish.chawla@example.com,Delhi
+E018,Nitin Malhotra,3,Male,9000010018,nitin.malhotra@example.com,Delhi
+E019,Ritika Saxena,3,Female,9000010019,ritika.saxena@example.com,Delhi
+E020,Vivek Pandey,3,Male,9000010020,vivek.pandey@example.com,Delhi
+E021,Shalini Kapoor,3,Female,9000010021,shalini.kapoor@example.com,Delhi
