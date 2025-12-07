@@ -62,6 +62,14 @@ If missing/invalid → automatically assigned round-robin (1→2→3)
 ## ✅ Output Files
 
 ### `shift_rota.xlsx`
+- 📅 **One sheet per month**
+- 🎨 **Color-coded shifts - 3 shift per day**
+  - **Shift 1** → Light Green  (6:00 AM to 2:30 PM)
+  - **Shift 2** → Light Blue   (2:00 PM to 10:30 PM)
+  - **Shift 3** → Light Red    (10:00 PM to 6:30 AM)
+  - **Off (W)** → Light Yellow
+- 📈 **Daily totals per shift included**
+
 🔽 [Download the full Excel file](shift_rota.xlsx)
 
 
