@@ -1,0 +1,5 @@
+{
+  "min_per_shift": 1,
+  "max_off_pct": 0.30,
+  "output_file": "shift_rota.xlsx"
+}
